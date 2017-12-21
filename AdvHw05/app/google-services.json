@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014443789612",
+    "firebase_url": "https://healthyme-fa449.firebaseio.com",
+    "project_id": "healthyme-fa449",
+    "storage_bucket": "healthyme-fa449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014443789612:android:c35afa608f9b5ff7",
+        "android_client_info": {
+          "package_name": "com.example.healthyMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014443789612-hck2behtvdkhgdrjkc1eb3boq6iq1ua6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthyMe",
+            "certificate_hash": "a607b602cbfa416f1a1af71c5bd29db085d6ba82"
+          }
+        },
+        {
+          "client_id": "1014443789612-j6iu0fqfe7vk49ml0l35gt35glc8jmgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXI5sbN6AEMv7r0X-rwIxUnAVIPMMe_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014443789612-j6iu0fqfe7vk49ml0l35gt35glc8jmgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
